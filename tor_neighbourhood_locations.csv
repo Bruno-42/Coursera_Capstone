@@ -1,0 +1,141 @@
+,Borough,Location,Latitude,Longitude,Neighbourhoods covered
+0,Scarborough,Agincourt North,43.8080383,-79.2664391,Agincourt and Brimwood
+1,Scarborough,Agincourt South-Malvern West,43.781969000000004,-79.25768943954708,Agincourt and Malvern
+2,Etobicoke,Alderwood,43.6017173,-79.5452325,Alderwood
+3,Old City of Toronto,Annex,43.6703377,-79.407117,The Annex and Seaton Village
+4,North York,Banbury-Don Mills,43.6703377,-79.407117,Don Mills
+5,North York,Bathurst Manor,43.76389295,-79.45636693710946,Bathurst Manor
+6,Old City of Toronto,Bay Street Corridor,43.6688649,-79.3891256,"Bay Street, Financial District"
+7,North York,Bayview Village,43.7691966,-79.3766617,Bayview Village
+8,North York,Bayview Woods-Steeles,43.7981268,-79.3829726,Bayview Woods
+9,North York,Bedford Park-Nortown,43.7981268,-79.3829726,"Bedford Park, Ledbury Park, and Nortown"
+10,York,Beechborough-Greenbrook,43.7981268,-79.3829726,Keelesdale and Silverthorn
+11,Scarborough,Bendale,43.7535196,-79.2553355,Bendale
+12,Scarborough,Birchcliffe-Cliffside,43.7535196,-79.2553355,Birch Cliff and Cliffside
+13,North York,Black Creek,43.6954005,-79.485495,Jane and Finch
+14,Old City of Toronto,Blake-Jones,43.6954005,-79.485495,The Pocket and Riverdale
+15,York,Briar Hill-Belgravia,43.6954005,-79.485495,Fairbank
+16,North York,Bridle Path-Sunnybrook-York Mills,43.6954005,-79.485495,The Bridle Path and York Mills
+17,East York,Broadview North,43.6839216,-79.3569421,Old East York
+18,North York,Brookhaven-Amesbury,43.6839216,-79.3569421,Amesbury
+19,Old City of Toronto,Cabbagetown-South St. James Town,43.6628885,-79.3676421,Cabbagetown and St. James Town
+20,York,Caledonia-Fairbank,43.6628885,-79.3676421,Fairbank and Cedarvale
+21,Old City of Toronto,Casa Loma,43.6781015,-79.409415775,"Casa Loma, and Wychwood"
+22,Scarborough,Centennial Scarborough,43.7874914,-79.1507681,Port Union and Centennial
+23,Old City of Toronto,Church-Yonge Corridor,43.6707855,-79.3856867,Church and Wellesley and Ryerson University
+24,Scarborough,Clairlea-Birchmount,43.6707855,-79.3856867,Clairlea
+25,North York,Clanton Park,43.74576315,-79.43817473462119,Wilson Heights
+26,Scarborough,Cliffcrest,43.7218363,-79.2362138,Cliffside
+27,Old City of Toronto,Corso Italia-Davenport,43.677954,-79.4430828,"Corso Italia, Davenport, Earlscourt, and Regal Heights"
+28,East York,Crescent Town,43.695403,-79.293099,Crescent Town
+29,East York,Danforth - East York,43.6881713,-79.3018156,"Old East York, The Danforth"
+30,Old City of Toronto,Danforth Village - Toronto,43.6833573,-79.3235744,The Danforth
+31,North York,Don Valley Village,43.7926732,-79.3547219,"Don Valley Village, The Peanut"
+32,Scarborough,Dorset Park,43.7528467,-79.282067,Dorset Park
+33,Old City of Toronto,Dovercourt-Wallace Emerson-Junction,43.7528467,-79.282067,"Dovercourt Park, Wallace Emerson, Junction Triangle and Davenport"
+34,North York,Downsview-Roding-CFB,43.7528467,-79.282067,Downsview
+35,Old City of Toronto,Dufferin Grove,43.6536319,-79.4264389,Brockton and Dufferin Grove
+36,Old City of Toronto,East End-Danforth,43.6684402,-79.33067,"Upper Beaches, East Danforth"
+37,Etobicoke,Edenbridge-Humber Valley,43.670672,-79.5188545,Humber Valley
+38,Scarborough,Eglinton East,43.7394646,-79.2320997,Eglinton East
+39,Etobicoke,Elms-Old Rexdale,43.72176985,-79.55217331972301,The Elms and Rexdale
+40,North York,Englemount-Lawrence,43.7172222,-79.4382909,Lawrence Manor and Glen Park
+41,Etobicoke,Eringate-Centennial-West Deane,43.7172222,-79.4382909,Centennial Park and West Deane Park
+42,Etobicoke,Etobicoke West Mall,43.6435491,-79.56532534553605,Centennial Park and Eatonville
+43,North York,Flemingdon Park,43.7184315,-79.333204,Flemingdon Park
+44,Old City of Toronto,Forest Hill North,43.6935586,-79.4139023,Forest Hill
+45,Old City of Toronto,Forest Hill South,43.6935586,-79.4139023,Forest Hill
+46,North York,Glenfield-Jane Heights,43.6935586,-79.4139023,Jane and Finch
+47,Old City of Toronto,Greenwood-Coxwell,43.6935586,-79.4139023,Leslieville
+48,Scarborough,Guildwood,43.7552251,-79.1982293,Guildwood
+49,North York,Henry Farm,43.7695089,-79.354296,Henry Farm
+50,Old City of Toronto,High Park North,43.6573833,-79.470961,"High Park North, West Bend"
+51,Old City of Toronto,High Park-Swansea,43.6527091,-79.4702777,"High Park, Roncesvalles and Swansea"
+52,Scarborough,Highland Creek,43.7901172,-79.1733344,Highland Creek
+53,North York,Hillcrest Village,43.6816953,-79.4257118,Hillcrest Village
+54,Etobicoke,Humber Heights-Westmount,43.6957852,-79.5208324,Humber Heights-Westmount
+55,North York,Humber Summit,43.7600778,-79.5717598,Humber Summit
+56,North York,Humbermede,43.7600778,-79.5717598,Humbermede and Emery
+57,York,Humewood-Cedarvale,43.6883215,-79.4280805,Cedarvale and Humewood
+58,Scarborough,Ionview,43.7359904,-79.2765146,Ionview
+59,Etobicoke,Islington-City Centre West,43.650206499999996,-79.52788201116351,Islington-Six Points
+60,Old City of Toronto,Junction Area,43.650206499999996,-79.52788201116351,The Junction
+61,York,Keelesdale-Eglinton West,43.6901578,-79.4749985,Keelesdale and Silverthorn
+62,Scarborough,Kennedy Park,43.724878,-79.2539688,Scarborough Junction
+63,Old City of Toronto,Kensington-Chinatown,43.724878,-79.2539688,"Alexandra Park, Chinatown, Grange Park, Kensington Market"
+64,Etobicoke,Kingsview Village-The Westway,43.724878,-79.2539688,Kingsview Village and Richview
+65,Etobicoke,Kingsway South,43.6473811,-79.5113328,The Kingsway
+66,Scarborough,L'Amoreaux,43.799003,-79.3059669,"L'Amoreaux, Leacock, and Bridlewood"
+67,York,Lambton Baby Point,43.799003,-79.3059669,Baby Point and Old Mill
+68,North York,Lansing-Westgate,43.7589503,-79.4225555,Lansing
+69,Old City of Toronto,Lawrence Park North,43.729199,-79.4032525,"Bedford Park, Teddington Park, and Wanless Park"
+70,Old City of Toronto,Lawrence Park South,43.729199,-79.4032525,"Lawrence Park, Lytton Park, North Toronto"
+71,East York,Leaside-Bennington,43.7014812,-79.3731559,Leaside
+72,Old City of Toronto,Little Portugal,43.64741325,-79.43111632546047,Little Portugal and Brockton
+73,Etobicoke,Long Branch,43.59200455,-79.54536450659592,Long Branch
+74,Scarborough,Malvern,43.8091955,-79.2217008,Malvern
+75,North York,Maple Leaf,43.7122767,-79.4901977,
+76,Etobicoke,Markland Wood,43.63123865,-79.58543401986114,Markland Wood
+77,Scarborough,Milliken,43.8231743,-79.3017626,Milliken
+78,Etobicoke,Mimico,43.6166773,-79.4968048,Mimico
+79,Scarborough,Morningside,43.7826012,-79.2049579,Morningside
+80,Old City of Toronto,Moss Park,43.6546438,-79.3697278,"Moss Park, Corktown and Garden District"
+81,York,Mount Dennis,43.6869597,-79.4895513,Mount Dennis
+82,Etobicoke,Mount Olive-Silverstone-Jamestown,43.6869597,-79.4895513,Smithfield
+83,Old City of Toronto,Mount Pleasant East,43.7084166,-79.3901348,"Davisville Village, North Toronto"
+84,Old City of Toronto,Mount Pleasant West,43.7084166,-79.3901348,"Davisville Village, North Toronto"
+85,Etobicoke,New Toronto,43.6007625,-79.505264,New Toronto
+86,North York,Newtonbrook East,43.795986,-79.4130896,Newtonbrook
+87,North York,Newtonbrook West,43.795986,-79.4130896,Newtonbrook
+88,Old City of Toronto,Niagara,43.6440753,-79.4086982,"Niagara, Liberty Village, Exhibition Place"
+89,Old City of Toronto,North Riverdale,43.66064985,-79.34271760826113,Riverdale
+90,Old City of Toronto,North St. James Town,43.66064985,-79.34271760826113,St. James Town
+91,East York,O'Connor-Parkview,43.7023902,-79.3160976,"Parkview Hills, Topham Park"
+92,Scarborough,Oakridge,43.6971738,-79.2748232,Oakridge
+93,York,Oakwood Village,43.6827255,-79.4380548,Oakwood Village
+94,East York,Old East York,43.699971000000005,-79.33251996261595,Old East York
+95,Old City of Toronto,Palmerston-Little Italy,43.6600648,-79.4118056,Little Italy and Palmerston
+96,North York,Parkwoods-Donalda,43.6600648,-79.4118056,Parkwoods
+97,North York,Pelmo Park-Humberlea,43.6600648,-79.4118056,Humberlea
+98,Old City of Toronto,Playter Estates-Danforth,43.6786661,-79.3555177,Playter Estates and Greektown
+99,North York,Pleasant View,43.787048,-79.3337137,Pleasant View
+100,Etobicoke,Princess-Rosethorn,43.787048,-79.3337137,"Princess Anne Manor, Thorncrest Village, and Princess Margaret"
+101,Old City of Toronto,Regent Park,43.6607056,-79.3604569,"Regent Park, Trefann Court"
+102,Etobicoke,Rexdale-Kipling,43.722114149999996,-79.57229244708017,Rexdale
+103,York,Rockcliffe-Smythe,43.722114149999996,-79.57229244708017,"Harwood, Syme"
+104,Old City of Toronto,Roncesvalles,43.6514426,-79.4510381,Roncesvalles
+105,Old City of Toronto,Rosedale-Moore Park,43.6869541,-79.3812804,Rosedale and Moore Park
+106,Scarborough,Rouge,43.8049304,-79.1658374,"West Rouge, Rouge Park"
+107,Old City of Toronto,Runnymede-Bloor West Village,43.6517776,-79.4759227,Runnymede-Bloor West Village
+108,North York,Rustic,43.71336615,-79.50450373904313,
+109,Scarborough,Scarborough Village,43.7437422,-79.2116324,
+110,Old City of Toronto,South Riverdale,43.66064985,-79.34271760826113,
+111,Old City of Toronto,South Parkdale,43.6447523,-79.4482598,"Parkdale, South Parkdale"
+112,North York,St. Andrew-Windfields,43.6447523,-79.4482598,York Mills and Hoggs Hollow
+113,Scarborough,Steeles,43.8161778,-79.3145378,
+114,Etobicoke,Stonegate-Queensway,43.62195,-79.5234993,"Humber Bay, Queensway"
+115,Scarborough,Tam O'Shanter-Sullivan,43.7792808,-79.3036989,
+116,Old City of Toronto,The Beaches,43.6710244,-79.296712,"The Beach/Beaches, Beaches North"
+117,Etobicoke,Thistletown-Beaumond Heights,43.6710244,-79.296712,
+118,East York,Thorncliffe Park,43.704553,-79.3454074,
+119,Old City of Toronto,Trinity-Bellwoods,43.64756465,-79.41388090266673,
+120,Old City of Toronto,University,43.663461999999996,-79.39775965337452,
+121,North York,Victoria Village,43.732658,-79.3111892,
+122,Old City of Toronto,Waterfront Communities-The Island,43.732658,-79.3111892,"Distillery District, Old Town, St. Lawrence"
+123,Scarborough,West Hill,43.7689144,-79.1872905,
+124,Etobicoke,West Humber-Clairville,43.7225629,-79.59703850234453,
+125,North York,Westminster-Branson,43.7225629,-79.59703850234453,
+126,York,Weston,43.7001608,-79.5162474,
+127,Old City of Toronto,Weston-Pellam Park,43.7001608,-79.5162474,"Carlton, Davenport, St. Clair Gardens"
+128,Scarborough,Wexford-Maryvale,43.7001608,-79.5162474,
+129,North York,Willowdale East,43.7615095,-79.4109234,
+130,North York,Willowdale West,43.7615095,-79.4109234,
+131,Etobicoke,Willowridge-Martingrove-Richview,43.7615095,-79.4109234,
+132,Scarborough,Woburn,43.7598243,-79.2252908,
+133,Old City of Toronto,Woodbine Corridor,43.7598243,-79.2252908,
+134,East York,Woodbine-Lumsden,43.7598243,-79.2252908,
+135,Old City of Toronto,Wychwood,43.68217105,-79.423113155788,
+136,Old City of Toronto,Yonge and Eglinton,43.7067479,-79.3983271,Chaplin Estates
+137,Old City of Toronto,Yonge-St.Clair,43.6880777,-79.3943963721967,
+138,North York,York University Heights,43.7587808,-79.5194336,
+139,North York,Yorkdale-Glen Park,43.703434,-79.45291835752212,"Glen Park, Lawrence Heights"
